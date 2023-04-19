@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbb2dbbf-1d96-441b-b8f3-dbac18da34d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/members/current_students/wangkang.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/members/current_students/wangliheng.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/members/current_students/wangmengmeng.jpg" afterDir="false" />
+    <list default="true" id="bbb2dbbf-1d96-441b-b8f3-dbac18da34d8" name="Default Changelist" comment="Update currentStudents.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/currentStudents.html" beforeDir="false" afterPath="$PROJECT_DIR$/currentStudents.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graduates.html" beforeDir="false" afterPath="$PROJECT_DIR$/graduates.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/members/current_students/qiaoyu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/members/current_students/qiaoyu.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +10,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -25,14 +25,14 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\javaweb\zchunsu.github.io\images\members\current_students" />
@@ -52,8 +52,17 @@
       <workItem from="1645792718651" duration="3707000" />
       <workItem from="1645832814859" duration="16559000" />
       <workItem from="1645881982217" duration="1703000" />
-      <workItem from="1681470599358" duration="955000" />
+      <workItem from="1681470599358" duration="3998000" />
+      <workItem from="1681629014605" duration="690000" />
     </task>
+    <task id="LOCAL-00001" summary="Update currentStudents.html">
+      <created>1681471675761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681471675761</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +80,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Update currentStudents.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update currentStudents.html" />
   </component>
 </project>
